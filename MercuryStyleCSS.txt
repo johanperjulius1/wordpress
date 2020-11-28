@@ -4915,14 +4915,15 @@ i.fa-puzzle-piece {
 	border-radius: 5px 5px 0 0;
 }
 .space-companies-archive-item-wrap {
-	padding: 45px 30px 30px;
+	padding: 25px 10px 10px;
 }
 .space-companies-archive-item-wrap.big {
 	padding: 30px;
 }
 .space-companies-archive-item-img {
-	margin-bottom: 30px;
+	margin-bottom: 15px;
 	line-height: 0;
+	height: 120px;
 }
 .space-companies-archive-item-title {
 	margin-bottom: 10px;
