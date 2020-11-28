@@ -2899,7 +2899,7 @@ blockquote.wp-block-quote:before {
     margin-bottom: 10px;
 }
 .space-companies-archive-item-title a {
-    font-size: 1em;
+    font-size: 0.85em;
 }
 .space-companies-archive-item-rating {
     margin-bottom: 5px;
@@ -2910,7 +2910,7 @@ blockquote.wp-block-quote:before {
     padding-left: 2px;
 }
 .space-companies-archive-item-short-desc {
-	display: none;
+	
 }
 .space-companies-archive-item-button {
     margin-top: 15px;
