@@ -4927,10 +4927,11 @@ i.fa-puzzle-piece {
 }
 .space-companies-archive-item-title {
 	margin-bottom: 10px;
+	height: 48px;
 }
 .space-companies-archive-item-title a {
 	font-weight: 700;
-    font-size: 1.333em;
+    font-size: 1.1em;
     line-height: 1.25em;
     color: #151515;
 }
@@ -4973,6 +4974,7 @@ i.fa-puzzle-piece {
     font-size: 0.75em;
     line-height: 1.45em;
     color: #7f8c8d;
+		height: 51px;
 }
 .space-companies-archive-item-short-desc a {
 	color: #ff2453;
